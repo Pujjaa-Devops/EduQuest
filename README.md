@@ -62,4 +62,46 @@ An Online Exam Management System built with **Spring Boot 2.3.3**, **Angular CLI
 ---
 
 ## 📂 Project Structure
+---
+
+## 🔐 Security Configurations
+
+- Spring Security for securing REST APIs
+- Password encryption (BCryptPasswordEncoder)
+- Role-based access (Admin/User)
+- JWT Authentication (Optional if implemented)
+
+---
+
+## 📌 Prerequisites
+
+- Java 17
+- Node.js & npm
+- Angular CLI
+- MySQL (XAMPP)
+- Eclipse IDE
+- VS Code
+
+---
+
+## 📈 Future Improvements
+
+- Add timer for exams
+- Export results as PDF
+- Real-time exam monitoring
+- Email notification after exam submission
+- Dashboard Analytics
+
+---
+
+## 🤝 Acknowledgements
+
+- [Spring Boot Documentation](https://spring.io/projects/spring-boot)
+- [Angular CLI Documentation](https://angular.io/cli)
+- [MySQL Documentation](https://dev.mysql.com/doc/)
+
+---
+
+
+
 
