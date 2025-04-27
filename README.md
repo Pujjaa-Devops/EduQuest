@@ -14,6 +14,20 @@ An Online Exam Management System built with **Spring Boot 2.3.3**, **Angular CLI
 
 ---
 
+##  🛠 Attributes
+
+- **username** - Puja10
+- **Password** - abc
+- **Role**- Admin
+---
+- **username** - vaishnavi
+- **Password** - xyz
+- **Role**- normal
+  ---
+ - **username** - Purva
+- **Password** - pqr
+- **Role**- normal
+
 ## ✨ Features
 
 - 🔒 Secure Authentication & Authorization with Spring Security
