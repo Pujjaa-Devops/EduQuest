@@ -101,6 +101,22 @@ An Online Exam Management System built with **Spring Boot 2.3.3**, **Angular CLI
 - [MySQL Documentation](https://dev.mysql.com/doc/)
 
 ---
+## Output
+
+Here are some screenshots of the project:
+
+
+
+###  1️⃣ Admin Dashboard
+
+![Admin Dashboard Screenshot](image1.png)
+
+### 2️⃣User Exam Screen
+
+![User Exam Screen Screenshot](image2.png)
+
+
+
 
 
 
