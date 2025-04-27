@@ -22,8 +22,8 @@ An Online Exam Management System built with **Spring Boot 2.3.3**, **Angular CLI
 ---
 - **username** - vaishnavi
 - **Password** - xyz
-- **Role**- normal
-  ---
+- **Role** - normal
+---
  - **username** - Purva
 - **Password** - pqr
 - **Role**- normal
