@@ -1,4 +1,4 @@
-# 🎯 Exam Portal
+# 🎯 EduQuest
 
 An Online Exam Management System built with **Spring Boot 2.3.3**, **Angular CLI**, **MySQL (via XAMPP)**, and **Java 17**.
 
@@ -13,6 +13,19 @@ An Online Exam Management System built with **Spring Boot 2.3.3**, **Angular CLI
 - **Database:** MySQL (XAMPP)
 
 ---
+## 🛠 Attributes
+username : Puja10
+password : abc
+role : admin 
+----
+username : vaishnavi
+password : xyz
+role : normal
+----
+username : purva
+password : pqr
+role : normal
+----
 
 ## ✨ Features
 
